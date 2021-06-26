@@ -1,0 +1,2 @@
+export const CAT_DATA_LOAD = "CAT_DATA_LOAD";
+export const CATEGORI_DATA_LOAD = "CATEGORI_DATA_LOAD";
